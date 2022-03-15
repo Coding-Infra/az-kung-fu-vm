@@ -4,7 +4,7 @@
 
 Have you ever spent hours building a machine to use as an Azure Administrator or DevOps workstation? There's a lot of tools to install. Oh, and what about installing Windows Subsystem for Linux?  Then this one click deployment is for you.  Use this VM to start down the path of [az-kung-fu](https://github.com/build5nines/az-kung-fu) grasshopper!
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBuild5Nines%2Faz-kung-fu-vm%2Fmaster%2Fazure-deploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCoding-Infra%2Faz-kung-fu-vm%2Fmaster%2Fazure-deploy.json" target="_blank">
     <img src="media/Deploy-to-Azure-button.png"/>
 </a>
 
